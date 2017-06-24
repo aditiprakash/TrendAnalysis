@@ -11,5 +11,8 @@ This code scrapes content from a given website, performs pronoun extraction usin
 # scraping.py
 Performs web-scraping
 
+# doeswork.py
+Extracts date and search query from Google Trends URL
+
 # Credits
 Extract-Convert : https://github.com/GeneralMills/pytrends
